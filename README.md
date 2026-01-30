@@ -1,7 +1,7 @@
 
   # MedCheck Uganda App Design
 
-  This is a code bundle for MedCheck Uganda App Design. The original project is available at https://www.figma.com/design/JWWtjuGzhXlqPC0PbIfsQQ/MedCheck-Uganda-App-Design.
+  This is a code bundle for MedCheck Uganda App Design. You can also view the app at https://donkey-manual-75036506.figma.site/
 
   ## Running the code
 
